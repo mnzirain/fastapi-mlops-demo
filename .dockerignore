@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite
+*.log
+.env
+.venv
+venv/
+env/
+.ipynb_checkpoints
+.DS_Store
+.git
+.gitignore
+swagger-ui.png
+Docker Desktop Installer.exe
