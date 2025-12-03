@@ -1,5 +1,15 @@
 # FastAPI MLOps Demo 🚀
 
+## 🌐 Live Demo
+
+**Try it now:** [https://fastapi-mlops-demo.onrender.com/docs](https://fastapi-mlops-demo.onrender.com/docs)
+
+Test the live ML model with example iris flower measurements and get instant predictions!
+
+> ⚠️ **Note:** Free tier may take 30-60 seconds to wake up on first request.
+
+---
+
 A RESTful API built with FastAPI for serving machine learning predictions. This project demonstrates MLOps best practices including API design, interactive documentation, and production-ready endpoints.
 
 ## 🌟 Features
